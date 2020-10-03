@@ -16,24 +16,24 @@
 
 ###### Tuesday: 
 - Javascript callbacks <br/>
-https://github.com/Jean-Poul/3sem_flow2_week2/tree/main/01_Tuesday <br/>
+https://github.com/Jean-Poul/3sem_flow2_week2/tree/master/01_Tuesday <br/>
 - Some parts of the assignment can be shown in HTML
 - If you want to see them uncomment them in the JavaScript file and see the HTML file Tuesday.html
 
 ###### Wednesday: 
 - Fetch and Promises, Error handling and async-await <br/>
-https://github.com/Jean-Poul/3sem_flow2_week2/tree/main/02_Wednesday <br/>
+https://github.com/Jean-Poul/3sem_flow2_week2/tree/master/02_Wednesday/webpack_start_code <br/>
 
 
 ###### Thursday: 
 - CORS and SPA <br/>
-https://github.com/Jean-Poul/3sem_flow2_week2/tree/main/03_Thursday <br/>
+https://github.com/Jean-Poul/3sem_flow2_week2/tree/master/03_Thursday <br/>
 - Postman file added to test endpoints
 - Header picture added to show CORS
 
 ###### Friday: 
 - Part-2 Exam preparation <br/>
-https://github.com/Jean-Poul/3sem_flow2_week2/tree/main/04_Friday <br/>
+https://github.com/Jean-Poul/3sem_flow2_week2/tree/master/04_Friday <br/>
 - Wordfile/pdf added for written assignment
 - Header picture added to show CORS
 
