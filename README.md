@@ -12,6 +12,8 @@
 - Other REST endpoints are /count /{id} (GET)
 - One can also update and delete on a given id
 
+- Surge deployment of friday red assignment https://corswithjava.surge.sh/
+
 ###### Tuesday: 
 - Javascript callbacks <br/>
 https://github.com/Jean-Poul/3sem_flow2_week2/tree/main/01_Tuesday <br/>
